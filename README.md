@@ -8,12 +8,15 @@ This proposal outlines the development of a simplified PostgreSQL interpreter as
 command-line application. The interpreter will be capable of parsing and executing a
 subset of SQL statements, including table creation, data insertion, data querying with
 basic filtering, and data deletion.
-Features
+**Features**
 The Simplified PostgreSQL Interpreter will support:
+
 Table Creation: Syntax to define table structures, including column names and
 data types.
+
 Data Insertion: Mechanisms to insert data into tables following the defined
 structures.
+
 Data Querying: Ability to retrieve data using SELECT statements, with support for
 basic WHERE clause conditionals for filtering results.
 Data Deletion: Command to delete records from a table based on conditions.
