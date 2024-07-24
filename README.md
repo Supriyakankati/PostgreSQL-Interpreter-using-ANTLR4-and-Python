@@ -13,10 +13,8 @@ The Simplified PostgreSQL Interpreter will support:
 
 Table Creation: Syntax to define table structures, including column names and
 data types.
-
 Data Insertion: Mechanisms to insert data into tables following the defined
 structures.
-
 Data Querying: Ability to retrieve data using SELECT statements, with support for
 basic WHERE clause conditionals for filtering results.
 Data Deletion: Command to delete records from a table based on conditions.
